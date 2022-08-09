@@ -1,0 +1,4 @@
+CONTOH PROJECT CI 3 - ADMINLTE 3
+
+URL ASSETS
+INDEX.HTML http://localhost/main-template-ci-adminlte/assets/adminlte/index.html
